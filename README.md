@@ -31,12 +31,25 @@ This system consists of four tables:
 - Install **MySQL Server** ([Download](https://dev.mysql.com/downloads/))
 - Install **MySQL Workbench** (Optional)
 
-### **How to Import the Database**
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/ClinicBookingSystem.git
-   
+## Run Locally
 
+Clone the project
+
+```bash
+  git clone https://github.com/patmbugus/DBweek8final-project.git
+```
+
+Go to the project directory
+
+```bash
+  cd DBweek8final-project
+```
+
+Restore database
+
+```bash
+  mysql -u root -p < answers.sql
+```
 
 
 
