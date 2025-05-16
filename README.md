@@ -43,10 +43,8 @@ This system consists of four tables:
 
 
 ## Entity Relationship Diagram (ERD)
-![ER Diagram](https://github.com/patmbugus/erd.png)
 
-
-
+<img width="655" alt="erd" src="https://github.com/user-attachments/assets/86424993-e16a-45f0-92f7-517cd6c589ce" />
 
 # Next Steps
 Now that your Clinic Booking System is set up: ✅ You can modify the database structure. ✅ You can add new features like medical history or billing. ✅ You can connect it to a frontend (e.g., PHP, Python).
