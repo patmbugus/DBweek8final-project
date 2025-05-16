@@ -42,6 +42,9 @@ This system consists of four tables:
 
 
 
+## Entity Relationship Diagram (ERD)
+![ER Diagram](https://github.com/patmbugus/erd.png)
+
 
 
 
